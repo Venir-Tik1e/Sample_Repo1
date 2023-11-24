@@ -1,0 +1,19 @@
+#top {color: white;
+	padding: 20px;
+	margin: 40px;
+	width: 92%;
+	text-align: center;
+	background-color: black;
+	border: 15px dashed; white;}
+
+body {background-color: skyblue;}
+
+#name {text-align: center;}
+
+#img {text-align: right;
+	align-content: right}
+
+pre {
+
+	font-size: 20px;
+}
